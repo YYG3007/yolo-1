@@ -1,0 +1,14 @@
+
+path: robot_ws
+train: train/images
+val: val/images
+test: test/images
+
+
+
+names:
+  0: blueball
+  1: redball
+  2: basket
+
+
